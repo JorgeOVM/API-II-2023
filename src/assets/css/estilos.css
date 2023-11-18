@@ -2,3 +2,14 @@ button{
     font-weight: bold;
     color: rgba(0, 0, 0, 0.892) !important;
 }
+#encabezado{
+        margin-bottom: 80px;        
+}
+#tabla{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#titulo{
+    margin-left: 50px;
+    font-weight: bold;
+}
