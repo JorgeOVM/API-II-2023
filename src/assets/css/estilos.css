@@ -3,7 +3,8 @@ button{
     color: rgba(0, 0, 0, 0.892) !important;
 }
 #encabezado{
-        margin-bottom: 80px;        
+        margin-bottom: 80px;      
+          
 }
 #tabla{
     margin-left: 10px;
@@ -12,4 +13,7 @@ button{
 #titulo{
     margin-left: 50px;
     font-weight: bold;
+}
+#cuerpo{
+    background-color: rgb(223, 223, 223);
 }
