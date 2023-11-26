@@ -17,3 +17,10 @@ button{
 #cuerpo{
     background-color: rgb(223, 223, 223);
 }
+.button-sidebar:hover{
+    background-color: #000000 !important;
+}
+
+.button-sidebar:active{
+    background-color: #000000 !important;
+}
